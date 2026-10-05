@@ -7,10 +7,10 @@ Section: Utilities
 Depends: firmware (>= 15.0)
 Icon: https://raw.githubusercontent.com/nguyennt-devops/fakeinfo-repo/main/assets/AppIcon.png
 Architecture: iphoneos-arm64
-Version: 1.0.1
+Version: 1.0.2
 Installed-Size: 28128
-Filename: ./debs/com.custom.fakeinfo_1.0.1_iphoneos-arm64.deb
-Size: 10386860
-MD5sum: abd67d3189e74c661b1633f66707ff31
-SHA1: 619a86bb345d98e7b0897ab4eb1745a62a6bfdcf
-SHA256: db140e4898dbe55b5128c599d65f02b12418dc620bf06279ef6147b9c8b969e3
+Filename: ./debs/com.custom.fakeinfo_1.0.2_iphoneos-arm64.deb
+Size: 10384524
+MD5sum: 90d9f82488bcca19b12680fd9bda4127
+SHA1: 816c95860681dd388e56cb2a0fc42b4bb7aff278
+SHA256: 5f8461ac440da35021d0e251ac03f41b24ebebc0afb3d9900d2b1413d9ef4169
