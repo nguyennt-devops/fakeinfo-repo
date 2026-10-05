@@ -5,7 +5,7 @@ Maintainer: Custom
 Author: Custom
 Section: Utilities
 Depends: firmware (>= 15.0)
-Icon: https://raw.githubusercontent.com/nguyennt-devops/FakeInfo/main/App/AppIcon.png
+Icon: https://raw.githubusercontent.com/nguyennt-devops/fakeinfo-repo/main/assets/AppIcon.png
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Installed-Size: 28032
