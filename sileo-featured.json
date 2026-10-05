@@ -1,0 +1,14 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{300, 140}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "title": "FakeInfo Manager",
+      "package": "com.custom.fakeinfo",
+      "itemSize": "{300, 140}",
+      "itemCornerRadius": 10,
+      "icon": "https://raw.githubusercontent.com/nguyennt-devops/FakeInfo/main/App/AppIcon.png"
+    }
+  ]
+}

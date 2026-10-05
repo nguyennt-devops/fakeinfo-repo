@@ -1,0 +1,20 @@
+Origin: FakeInfo Repo
+Label: FakeInfo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Kho tweak FakeInfo cho Sileo
+MD5Sum:
+ efbb7970e2dbf0df79bd6d194f12f699 568 Packages
+ d8c1febed6404baee42acf8d5195db25 415 Packages.gz
+ 881ebe6df792520e7b61d6b947cc55f7 439 Packages.bz2
+SHA1:
+ aca44171946f7f4976a314214d45da81ffb48015 568 Packages
+ adc8b6ecd44cd9fe8e62a9b21a4ecb12caee0abf 415 Packages.gz
+ 5a4bb21062d50a7c3a3c67617e6e43a885ec4af1 439 Packages.bz2
+SHA256:
+ 6de1a046d2ac86dc41469e700663fc46ea466b2d289ba0890ce13a17f1dd8ccb 568 Packages
+ 75c62fd8b31c607eeb1ddc7ae904733dc31ee05fcdf25c026ca27c8a13c27491 415 Packages.gz
+ 7b04defe6616a1e56ae74dd63e1f09e4f7936f6f7fb44188a47e3f55c87861cf 439 Packages.bz2
