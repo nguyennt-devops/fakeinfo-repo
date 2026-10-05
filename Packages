@@ -1,5 +1,5 @@
 Package: com.custom.fakeinfo
-Name: FakeInfo Manager
+Name: FakeInfo
 Description: Anti-detect device info manager
 Maintainer: Custom
 Author: Custom
@@ -10,7 +10,7 @@ Architecture: iphoneos-arm64
 Version: 1.0.0
 Installed-Size: 28032
 Filename: ./debs/com.custom.fakeinfo_1.0.0_iphoneos-arm64.deb
-Size: 10372506
-MD5sum: dcdce41f9a66118fb5f7ece1f160cb34
-SHA1: f1514a2645a83c2c8221ad8defb430f4d0bd495c
-SHA256: 2e4b5d3e42db8a26cb6731a4b4645fd578705e24ebeefdb3ce85d5c54cdb5f48
+Size: 10371412
+MD5sum: 10941c54e90685adccaa6532dcde5fe2
+SHA1: 6711ddcc9f08ac9b3600f41eba9bd7040bb81465
+SHA256: 52a5062b0fe607b38f55398c432796119236fb1199c6c70a43a5043e8be41c0c

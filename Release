@@ -1,4 +1,4 @@
-Origin: FakeInfo Repo
+Origin: FakeInfo
 Label: FakeInfo
 Suite: stable
 Version: 1.0
@@ -7,14 +7,14 @@ Architectures: iphoneos-arm64
 Components: main
 Description: Kho tweak FakeInfo cho Sileo
 MD5Sum:
- 4601c4c792b4e457add3f284637e1973 576 Packages
- 190d1b5a0e124eb55f9334ef1f09f6d3 421 Packages.gz
- 051bbe16efed0487b2bcccee308a0790 443 Packages.bz2
+ 3dc9b07cced2c72937f107088d668364 568 Packages
+ caa07c5d63348e21ce32bfc9b900e1e4 417 Packages.gz
+ b054874aa50addd0d3e3587b427d28fb 437 Packages.bz2
 SHA1:
- eb3e2e1d8b09e10a69f38a6e1174915195337202 576 Packages
- 292ea4bff39ed1272a535b32d1b4f4408281bad4 421 Packages.gz
- df8e629810e4ea9e9749203e2fca4388e0f0b49b 443 Packages.bz2
+ 322fdfd7212438a8fd42203788d69b0be35088ef 568 Packages
+ af0dd4b957528d2f4798447dfcd6bdb1d57ca678 417 Packages.gz
+ 9e89c786cc9fe152c477a927c2003dbd48438896 437 Packages.bz2
 SHA256:
- 84c9d5a531b74458cfcf8c6c1ab28d03410986baa1af3650e455ce1f7f6eeef7 576 Packages
- 2850722dfa799326ace3d8778d8403667f038d74bc82ed8a5c414b68f2a8ac5b 421 Packages.gz
- 301483f0dda45c8367a15e1e1fb68c3570eb3907c45e38478639abbc65bd40d2 443 Packages.bz2
+ d750d4070ea699ecc702509216d1b0c409baf3ae3704fe13079ca1525395bcda 568 Packages
+ 9c9ba74b7251a345f13c4348b37dc86f32a35478350778d9390743e6027b0206 417 Packages.gz
+ 0c5114638c0f490058906cc077c3db516e92a6b263ec19d97452e6dba7a882ae 437 Packages.bz2
